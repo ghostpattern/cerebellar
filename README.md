@@ -1,4 +1,7 @@
-# Cerebellar
+![Cerebellar](Cerebellar_logo.png)
+
+# About
+
 Cerebellar is an interactive narrative for two players, made during [Train Jam 2016](https://itch.io/jam/train-jam-2016). This repository contains all of its source code and files.
 
 In Cerebellar, two players on one keyboard control a pair of characters before and after their atoms are overlapped.
