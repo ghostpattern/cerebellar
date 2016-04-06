@@ -8,7 +8,7 @@ In Cerebellar, two players on one keyboard control a pair of characters before a
 
 Cerebellar was developed by [Ghost Pattern](http://ghostpattern.net/), the collaboration between [Jason Bakker](http://twitter.com/jason_bakker) and [Russell Dilley](http://twitter.com/russelldilley). The audio was created by [Tomás Batista](http://tomasbatista.com/).
 
-Cerebellar was built in Unity 5.3.4f1 using the [ink](http://www.inklestudios.com/ink/) scripting language, which was released as an open source project at GDC 2016 by its developer Inkle. Read more about Cerebellar and how it uses ink [here](http://ghostpattern.net/2016/04/04/cerebellar-is-now-open-source).
+Cerebellar was built in Unity 5.3.4f1 using the [ink](http://www.inklestudios.com/ink/) scripting language, which was released as an open source project at GDC 2016 by its developer Inkle. Read more about Cerebellar and how it uses ink [here](http://ghostpattern.net/2016/04/06/cerebellar-is-now-open-source/).
 
 Cerebellar the game is freely available to download from [itch.io](https://ghostpattern.itch.io/cerebellar).
 
